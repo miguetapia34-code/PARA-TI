@@ -52,7 +52,7 @@ font: 26px 'VT323', monospace; text-align:justify; display: none;}
 #f16 {position: absolute; top: 0px; right: 0px; left: 0px; bottom: 0px; display: none; align-items: center; justify-content: center; flex-direction: column;}
 
 #f17 {position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; display: none; align-items: center; justify-content: center; flex-direction: column;}
-.ring {width: 150px; height: 150px;  background: url(https://i.imgur.com/oEs8TdL.png); background-size: cover;}
+.ring {width: 150px; height: 150px;  background: url(https://i.imgur.com/C3GL4Ao.jpeg); background-size: cover;}
 .ichigo {width: 200px; height: 200px; background: url(https://i.imgur.com/hGY3pGX.png); background-size: cover;}
 
 #f18 {position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px; background: #111; display: none;}
